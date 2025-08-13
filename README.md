@@ -1,8 +1,7 @@
 ### Hi there, im @DamianEisenring 👋
 
 
-- 🔭 I’m currently working on a Bank Management System
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: I don't understand my code either
+- 🔭 I’m currently working on a Project with the Spotify API
+- 🌱 I’m currently learning Angular
 - 🎮 Goals 2024: Developing my skills in Front- and Backend
 
