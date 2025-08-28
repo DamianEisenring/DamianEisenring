@@ -2,6 +2,6 @@
 
 
 - 🔭 I’m currently working on a Project with the Spotify API
-- 🌱 I’m currently learning Angular
-- 🎮 Goals 2024: Developing my skills in Front- and Backend
+- 🌱 I’m currently learning Oracle
+- 🎮 Goals 2025: Learining Oracle and getting used to SQL
 
